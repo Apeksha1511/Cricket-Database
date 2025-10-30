@@ -3,7 +3,7 @@
 A mini DBMS project for managing cricket match data using phpMyAdmin, PHP, HTML, and CSS.  
 This project allows users to view team details, player statistics, and match results through a simple web interface.
 
-## 📘 Project Overview
+📘 Project Overview
 
 This project simulates a small cricket management system.  
 It stores data about teams, players, and matches, and displays it dynamically using PHP and MySQL.
@@ -16,9 +16,8 @@ Key Features:
 - Simple, clean web interface using HTML and CSS  
 - Database operations handled via MySQL (phpMyAdmin)
 
----
 
-## 🧩 Technologies Used
+🧩 Technologies Used
 
 | Category | Technology |
 |-----------|-------------|
@@ -29,7 +28,7 @@ Key Features:
 
 ---
 
-## 🗂 Project Structure
+🗂 Project Structure
 
 cricket_project/ 
 ├── add_team.php 
@@ -47,9 +46,8 @@ cricket_project/
 │   └── style.css 
 └── cricket_database.sql   ← (Database export file)
 
----
 
-🚀 Future Enhancements
+Future Enhancements
 
 Add login and admin dashboard
 
@@ -61,10 +59,10 @@ Implement match scheduling automation
 
 
 
----
-
-👩‍💻 Author
+👩‍💻 Team Members
 
 Apeksha T R
+Amrutha M Hegde
+Brunda R
 B.E. in Information Science and Engineering
 RNS Institute of Technology
